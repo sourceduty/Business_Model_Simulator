@@ -289,6 +289,8 @@ Overall, Dairy Milk 2 aims to revolutionize the chocolate industry by offering i
 [Industry Simulator](https://github.com/sourceduty/Industry_Simulator)
 <br>
 [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
+<br>
+[Sourceduty 2](https://github.com/sourceduty/Sourceduty_2)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
