@@ -360,6 +360,8 @@ This simulation suggests that Ford Motors' mail order kit service could tap into
 [Business Builder](https://chat.openai.com/g/g-cSUIqfHm9-business-builder)
 <br>
 [Standard Industry](https://chat.openai.com/g/g-u8G59DH4i-standard-industry)
+<br>
+[Business Footprint](https://chat.openai.com/g/g-iQbBVJzIf-business-footprint)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
