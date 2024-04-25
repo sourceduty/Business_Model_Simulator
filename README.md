@@ -291,23 +291,23 @@ Overall, Dairy Milk 2 aims to revolutionize the chocolate industry by offering i
 
 Business Model Overview:
 
-  Product: Ford Motors Mail Order Kit
+Product: Ford Motors Mail Order Kit
   
-    - Maintenance Kits: Include parts and tools for routine maintenance tasks like oil changes, brake pad replacements, etc.
-    - Customization Kits: Offer components to customize the appearance or performance of vehicles, such as spoilers, decals, special tires, etc.
-    - Assembly Kits: Advanced, modular kits aimed at enthusiasts who wish to build or assemble significant parts of their vehicles themselves.
+- Maintenance Kits: Include parts and tools for routine maintenance tasks like oil changes, brake pad replacements, etc.
+- Customization Kits: Offer components to customize the appearance or performance of vehicles, such as spoilers, decals, special tires, etc.
+- Assembly Kits: Advanced, modular kits aimed at enthusiasts who wish to build or assemble significant parts of their vehicles themselves.
 
-  Target Market:
+Target Market:
   
-    - DIY Enthusiasts: Individuals interested in cars and capable of performing their own repairs and upgrades.
-    - Remote Car Owners: Those living in areas without easy access to repair services or Ford dealerships.
-    - Educational Institutions and Hobbyists: Schools, colleges, or clubs interested in automotive projects for educational or recreational purposes.
+- DIY Enthusiasts: Individuals interested in cars and capable of performing their own repairs and upgrades.
+- Remote Car Owners: Those living in areas without easy access to repair services or Ford dealerships.
+- Educational Institutions and Hobbyists: Schools, colleges, or clubs interested in automotive projects for educational or recreational purposes.
 
 Simulation Parameters and Assumptions:
 
-  - Market Penetration: Estimates based on the number of DIY enthusiasts and remote vehicle owners.
-  - Pricing Strategy: Premium pricing for assembly kits, competitive pricing for maintenance and customization kits.
-  - Distribution Model: Direct mail order through an online platform, supplemented by partnerships with logistics companies.
+- Market Penetration: Estimates based on the number of DIY enthusiasts and remote vehicle owners.
+- Pricing Strategy: Premium pricing for assembly kits, competitive pricing for maintenance and customization kits.
+- Distribution Model: Direct mail order through an online platform, supplemented by partnerships with logistics companies.
 
 Simulated Outcomes:
 
@@ -328,14 +328,14 @@ Simulated Outcomes:
 
 Visual Representation:
 
-  - Graphical trends showing projected sales over time.
-  - Charts depicting potential market penetration in different regions.
+- Graphical trends showing projected sales over time.
+- Charts depicting potential market penetration in different regions.
 
 Alternative Strategies:
 
-  - Simplification of Kits: Offering simpler, more user-friendly kits to attract less experienced DIYers.
-  - Subscription Model: A subscription service for maintenance kits, providing regular updates and replacements at a discounted rate.
-  - Partnership with Local Services: Collaborating with local garages or service centers where customers can pick up their kits or get help with assembly.
+- Simplification of Kits: Offering simpler, more user-friendly kits to attract less experienced DIYers.
+- Subscription Model: A subscription service for maintenance kits, providing regular updates and replacements at a discounted rate.
+- Partnership with Local Services: Collaborating with local garages or service centers where customers can pick up their kits or get help with assembly.
 
 Conclusion:
 
