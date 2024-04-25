@@ -159,5 +159,10 @@ This business concept merges cutting-edge technology with the unexplored potenti
 <br>    
 </details>
 
+#
+### Related Links
+
+[Industry Simulator](https://github.com/sourceduty/Industry_Simulator)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
