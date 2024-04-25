@@ -285,6 +285,8 @@ Overall, Dairy Milk 2 aims to revolutionize the chocolate industry by offering i
 <details><summary>Ford Motors Mail Order Kit</summary>
 <br>
 
+![1](https://github.com/sourceduty/Business_Model_Simulator/assets/123030236/66fa7b62-25f4-48e4-a13f-cb8a106ec8cf)
+
 ### Ford Motors Mail Order Kit
 
 Business Model Overview:
