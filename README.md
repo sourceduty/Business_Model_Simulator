@@ -352,6 +352,10 @@ This simulation suggests that Ford Motors' mail order kit service could tap into
 [Collaborative Advertising](https://github.com/sourceduty/Collaborative_Advertising)
 <br>
 [Sourceduty 2](https://github.com/sourceduty/Sourceduty_2)
+<br>
+[Business Concept](https://chat.openai.com/g/g-Xm4w9hlF5-business-concept)
+<br>
+[Corporation Planner](https://chat.openai.com/g/g-i960d9ZnH-corporation-planner)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
