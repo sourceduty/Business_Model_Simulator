@@ -368,6 +368,8 @@ This simulation suggests that Ford Motors' mail order kit service could tap into
 [Business Automation](https://chat.openai.com/g/g-Y2GamnRIL-business-automation)
 <br>
 [Business Productivity](https://chat.openai.com/g/g-Uk4TTZFxs-business-productivity)
+<br>
+[Discount Auctioning](https://github.com/sourceduty/Discount_Auctioning)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
