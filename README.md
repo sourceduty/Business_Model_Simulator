@@ -24,7 +24,7 @@ Simulating a business allows decision-makers to test various strategic options a
 Ultimately, business simulations improve decision-making by providing a low-risk environment to experiment and learn from different strategies. This process enhances a company’s ability to respond to market changes, optimize performance, and innovate. It can also foster greater collaboration and understanding across departments, as teams can see how their decisions impact the broader business. By refining strategies through simulation, businesses gain confidence in their plans and reduce uncertainty, making them more agile and resilient in a dynamic market.
 
 #
-### Mised Pricing Free-Paid Model
+### Mixed Pricing Free-Paid Model
 
 The mixed pricing business model is a strategy where a company offers a combination of free and paid products or services within the same marketplace or storefront. This approach is commonly used in digital marketplaces, such as those for software, 3D models, and creative content. By offering free items, businesses can attract a larger audience, build trust, and encourage customers to try their products without any initial investment. These free offerings can range from sample products, trials, or basic versions of a paid service. The goal is to provide enough value for customers to engage with the brand and create opportunities for upselling more advanced or premium products down the line.
 
