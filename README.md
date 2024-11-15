@@ -24,6 +24,20 @@ Simulating a business allows decision-makers to test various strategic options a
 Ultimately, business simulations improve decision-making by providing a low-risk environment to experiment and learn from different strategies. This process enhances a company’s ability to respond to market changes, optimize performance, and innovate. It can also foster greater collaboration and understanding across departments, as teams can see how their decisions impact the broader business. By refining strategies through simulation, businesses gain confidence in their plans and reduce uncertainty, making them more agile and resilient in a dynamic market.
 
 #
+### Mised Pricing Free-Paid Model
+
+The mixed pricing business model is a strategy where a company offers a combination of free and paid products or services within the same marketplace or storefront. This approach is commonly used in digital marketplaces, such as those for software, 3D models, and creative content. By offering free items, businesses can attract a larger audience, build trust, and encourage customers to try their products without any initial investment. These free offerings can range from sample products, trials, or basic versions of a paid service. The goal is to provide enough value for customers to engage with the brand and create opportunities for upselling more advanced or premium products down the line.
+
+This model is especially effective for creators and small businesses looking to build a following and generate interest in their offerings. Free products act as a lead magnet, drawing potential customers into the ecosystem, where they can eventually convert into paying customers. The free products often serve as a gateway to higher-quality or more specialized items, creating a pathway for customers to explore and purchase additional offerings. As the customer base grows and gains confidence in the brand, the business can effectively leverage its free content to drive sales, ensuring sustainable growth while maintaining a competitive edge in the market.
+
+#
+### Freemium Platforms
+
+Social media platforms like Facebook, Twitter, and other similar services often employ a free-user business model, where users can access core features without paying. The primary strategy behind this model is to attract and retain a large user base by offering a no-cost entry point to the platform, which in turn drives user engagement and data generation. These platforms typically monetize their services through advertising, where businesses pay to target specific user groups based on demographic and behavioral data collected from user activities. By providing free access, platforms can gather a massive amount of data from users, creating a valuable resource that advertisers are willing to pay for to reach targeted audiences effectively.
+
+Additionally, these platforms may offer premium features or subscriptions as part of a freemium model. While the basic services remain free, users have the option to pay for enhanced features, such as ad-free experiences, advanced analytics, or exclusive content. For instance, Twitter offers a subscription service called Twitter Blue, which grants users access to features like an edit button and improved visibility. Facebook also offers tools for businesses to promote content and target audiences with ads, creating another revenue stream beyond just user engagement. This mixed strategy of free access combined with paid options allows social media platforms to scale quickly and maintain a steady revenue stream while keeping users engaged and willing to spend more for an enhanced experience.
+
+#
 ### Examples
 
 <details><summary>FryFly - The Aerial Fry Delivery Service</summary>
